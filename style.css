@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }  
+
+.main_content {
+    background-image: url(https://img.freepik.com/free-photo/dirty-metal-texture_1048-4784.jpg?size=626&ext=jpg&ga=GA1.1.867424154.1698105600&semt=ais);
+    background-size: cover;
+}
+
+.navbar {
+    background-image: linear-gradient(to bottom, #2E3192, #212529) ;
+    margin-bottom: 3rem;
+}
+
+.passfield {
+    box-shadow: 0-0 10px 7px #bacbdb;
+    border-radius: 10px;
+    width: auto;
+}
